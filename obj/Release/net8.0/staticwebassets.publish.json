@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PF41gAMS+JDVxEZAaq9EtxoTJ3hl+7ytW5G4QZJYKqI=",
+  "Source": "url-shortner",
+  "BasePath": "_content/url-shortner",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

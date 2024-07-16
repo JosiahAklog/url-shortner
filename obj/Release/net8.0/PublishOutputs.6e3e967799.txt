@@ -1,0 +1,7 @@
+C:\Users\josia\Desktop\HelloWorld\WebApplication1\bin\Publish\url-shortner.exe
+C:\Users\josia\Desktop\HelloWorld\WebApplication1\bin\Publish\appsettings.Development.json
+C:\Users\josia\Desktop\HelloWorld\WebApplication1\bin\Publish\appsettings.json
+C:\Users\josia\Desktop\HelloWorld\WebApplication1\bin\Publish\url-shortner.dll
+C:\Users\josia\Desktop\HelloWorld\WebApplication1\bin\Publish\url-shortner.deps.json
+C:\Users\josia\Desktop\HelloWorld\WebApplication1\bin\Publish\url-shortner.runtimeconfig.json
+C:\Users\josia\Desktop\HelloWorld\WebApplication1\bin\Publish\url-shortner.pdb
